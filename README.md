@@ -13,7 +13,7 @@ A 3-page interactive Power BI dashboard that analyses employee attrition for a c
 - Attrition is highest among employees with **under 1 year of tenure**
 - Employees working **overtime leave far more often: about 31% vs 15%** for those who do not
 
----
+--=
 
 ## Dashboard Pages
 
