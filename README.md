@@ -20,17 +20,17 @@ A 3-page interactive Power BI dashboard that analyses employee attrition for a c
 ### Page 1: Overview
 Headline KPIs (total employees, exits, active employees, attrition rate, average salary, estimated attrition cost) and attrition by department.
 
-![Overview](Screenshots/page1.png.png)
+![Overview](Screenshots/page1.png)
 
 ### Page 2: Why People Leave
 Exit reasons and the factors linked to attrition: tenure, age group, overtime, job satisfaction and salary band.
 
-![Why People Leave](Screenshots/page2.png.png)
+![Why People Leave](Screenshots/page2.png)
 
 ### Page 3: People and Performance
 How attrition connects with workforce and performance data.
 
-![People and Performance](Screenshots/page3.png.png)
+![People and Performance](Screenshots/page3.png)
 
 ---
 
